@@ -1,0 +1,7 @@
+{
+    "user" : {
+        "name" : "홍길동",
+        "email": "aaa@naver.com",
+        "password": "1234"
+    }
+}
